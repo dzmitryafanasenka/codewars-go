@@ -17,3 +17,7 @@
 
 * [Consecutive strings](/6kyu/consecutive-strings) 
 * [Duplicate encoder](/6kyu/duplicate-encoder) 
+
+## 5 kyu
+
+* [Gap in Primes](/5kyu/gap-in-primes)
