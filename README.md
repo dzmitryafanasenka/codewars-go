@@ -17,6 +17,7 @@
 
 * [Consecutive strings](/6kyu/consecutive-strings) 
 * [Duplicate encoder](/6kyu/duplicate-encoder) 
+* [Rainfall](/6kyu/rainfall) 
 
 ## 5 kyu
 
