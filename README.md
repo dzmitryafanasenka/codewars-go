@@ -12,6 +12,7 @@
 * [Deodorant Evaporator](/7kyu/deodorant-evaporator)
 * [Highest and Lowest](/7kyu/highest-and-lowest)
 * [String ends with?](/7kyu/string-ends-with)
+* [Functional Addition](/7kyu/functional-addition)
 
 ## 6 kyu
 
