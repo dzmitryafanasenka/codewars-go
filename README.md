@@ -13,6 +13,7 @@
 * [Highest and Lowest](/7kyu/highest-and-lowest)
 * [String ends with?](/7kyu/string-ends-with)
 * [Functional Addition](/7kyu/functional-addition)
+* [Count the divisors of a number](/7kyu/count-divisors)
 
 ## 6 kyu
 
